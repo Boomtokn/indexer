@@ -30,7 +30,7 @@
     "@types/lodash": "^4.17.7",
     "bullmq": "^5.12.12",
     "ethers": "^5.7.2",
-    "express": "^4.19.2",
+    "express": "^5.0.0",
     "express-bearer-token": "^3.0.0",
     "ioredis": "^5.4.1",
     "lodash": "^4.17.21",
